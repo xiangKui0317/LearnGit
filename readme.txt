@@ -1,2 +1,2 @@
 Git is a distributed version vontrol ststem.
-Git is free software.
+Git is free sofware distributed under th GPL.
